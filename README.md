@@ -7,3 +7,5 @@
 |Air780E|EC618|移动、联通|
 |Air780EPV|EC718PV|移动、联通、广电|
 ## 教程
+![image](https://github.com/KPI0/Air780E/blob/main/picture/1.png)
+![image](https://github.com/KPI0/Air780E/blob/main/picture/2.png)
